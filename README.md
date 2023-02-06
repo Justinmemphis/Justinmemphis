@@ -23,7 +23,7 @@ example cool-looking post: https://github.com/nishant-666
 -->
 
 ### My Github Stats:
-![GitHub stats](https://github-readme-stats-drab-beta.vercel.app//api?username=Justinmemphis&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats-drab-beta.vercel.app/api/top-langs/?username=Justinmemphis&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-rho-liart-31.vercel.app/api?username=Justinmemphis&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-rho-liart-31.vercel.app/api/top-langs/?username=Justinmemphis&theme=tokyonight)
 
 [![@justincarter's Holopin board](https://holopin.me/justincarter)](https://holopin.io/@justincarter)
