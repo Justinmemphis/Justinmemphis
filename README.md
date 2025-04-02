@@ -6,7 +6,7 @@ I'm a passionate **Software Engineer** specializing in full-stack web developmen
 
 ### 💼 Professional Experience
 - **Tech Support Engineer at ILS** (since August 2023)
-  - Specializing in setting up Zendesk, integrating APIs, and troubleshooting complex systems.&#8203;:contentReference[oaicite:2]{index=2}
+  - Specializing in setting up Zendesk, integrating APIs, and troubleshooting complex systems.
 
 ---
 
