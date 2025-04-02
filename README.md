@@ -26,7 +26,7 @@ JavaScript • React • Node.js • Python • HTML • CSS • Git • Linux �
   Interactive tool that estimates the value of a small business. Created using **JavaScript** and **jQuery** with custom UI components and logic.
 
 - **[Stock Quote Webpage](https://github.com/Justinmemphis/stock-quote-webpage)**  
-  Web app that retrieves and charts 20 years of stock price data from a public API. Built using **JavaScript** and **Chart.js**.
+  Web app that retrieves and charts 20 years of stock price data from a public API. Built using **JavaScript** and **d3.js**.
 
 - **[Metric/Imperial Converter](https://metric-imperial-convertor-justinmemphis.replit.app)**  
   Converts between metric and imperial units. FCC-certified project built using **JavaScript** with responsive layout and unit detection.
