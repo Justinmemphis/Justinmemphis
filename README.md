@@ -39,6 +39,9 @@ JavaScript • React • Node.js • Python • HTML • CSS • Git • Linux �
 - **AWS & GitHub** - Creating CI/CD pipelines
 
 ---
+[![TryHackMe Badge](https://github.com/Justinmemphis/Justinmemphis/raw/main/ubiqtorate051225.png)](https://tryhackme.com/p/ubiqtorate)
+
+---
 
 ### 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Justinmemphis&show_icons=true&theme=tokyonight)
