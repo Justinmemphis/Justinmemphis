@@ -1,59 +1,85 @@
 ### 👋 Hi, I'm Justin Carter!
 
-I'm a passionate **Software Engineer** specializing in full-stack web development with a focus on JavaScript, React, and Node.js. Based in Memphis, TN, I design and build responsive, user-friendly websites and applications.
+---
+
+**Role:** DevSecOps & Full‑Stack Engineer | AWS • Cybersecurity • DevOps
+**Location:** Memphis, TN | Portfolio & Blog: [justinmemphis.com](https://www.justinmemphis.com)
+**Connect:** [LinkedIn](https://www.linkedin.com/in/justin-carter-memphis/) | [Twitter @JustinMemphis42](https://twitter.com/JustinMemphis42)
 
 ---
 
-### 💼 Professional Experience
-- **Tech Support Engineer at ILS** (since August 2023)
-  - Specializing in setting up Zendesk, integrating APIs, and troubleshooting complex systems.
+## 🔧 What I Do
+
+I'm a Technical Support Specialist II at ILS
+
+* **AWS Infrastructure & Automation**
+
+  * Achieved AWS Certified Cloud Practitioner; pursuing AWS Solutions Architect – Associate
+  * Build, secure, and maintain cloud architectures using Infrastructure as Code (IaC)
+  * Configure CI/CD pipelines integrating GitHub Actions, and S3
+
+* **DevOps & Systems Engineering**
+
+  * Automate build/test/deploy workflows for web apps
+  * Manage Linux servers and version control with Git
+
+* **Security & Networking**
+
+  * Earned CompTIA Security+ and Cisco CCNA certifications—solid networking foundation
 
 ---
 
-### 🛠️ Tech Stack
+## 📚 Certifications & Learning
 
-**Languages & Tools:**  
-JavaScript • React • Node.js • Python • HTML • CSS • Git • Linux • AWS • Zendesk
-
----
-
-### 📌 Featured Projects
-
-- **[ASCRails.com](https://ascrails.com)**  
-  Responsive website for a client in the rail industry. Built with **HTML**, **CSS**, **JavaScript**, and **SASS** to ensure modern design and smooth functionality.
-
-- **[Business-Worthy.com](https://business-worthy.com)**  
-  Interactive tool that estimates the value of a small business. Created using **JavaScript** and **jQuery** with custom UI components and logic.
-
-- **[Stock Quote Webpage](https://github.com/Justinmemphis/stock-quote-webpage)**  
-  Web app that retrieves and charts 20 years of stock price data from a public API. Built using **JavaScript** and **d3.js**.
-
-- **[Metric/Imperial Converter](https://metric-imperial-convertor-justinmemphis.replit.app)**  
-  Converts between metric and imperial units. FCC-certified project built using **JavaScript** with responsive layout and unit detection.
-
-### 🧠 Currently Learning
-
-- **Cybersecurity** - Studying for **Security+** exam
-- **Node.js & API Integration** – Enhancing backend connectivity and automation
-- **MySQL** – Managing data
-- **AWS & GitHub** - Creating CI/CD pipelines
-
----
-[![TryHackMe Badge](https://github.com/Justinmemphis/Justinmemphis/raw/main/ubiqtorate051225.png)](https://tryhackme.com/p/ubiqtorate)
+* **AWS Certified Cloud Practitioner (CCP)** ✅
+* **CCNA (Cisco Certified Network Associate)** ✅
+* **CompTIA Security+ (SY0‑601)** ✅
+* **Google IT Support Professional Certificate** ✅
+* **Currently studying:** AWS Solutions Architect – Associate (SAA‑C03)
 
 ---
 
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Justinmemphis&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Justinmemphis&theme=tokyonight)
+## 🛠️ Core Tech Stack
+
+| Category                 | Tools & Technologies                                                        |
+| ------------------------ | --------------------------------------------------------------------------- |
+| **Cloud + DevOps**       | AWS (EC2, S3, IAM, CloudFront), GitHub Actions                              |
+| **Security**             | Network fundamentals, firewalls, SSH, encryption                            |
+| **Backend / Scripting**  | Node.js, Python, REST APIs, Express, Bash                                   |
+| **Frontend**             | JavaScript, React, HTML5, CSS3                                              |
+| **Databases**            | MySQL, MongoDB, basic query design                                          |
+| **Version Control & OS** | Git, Linux CLI, AWS CLI                                                     |
 
 ---
 
-### 📬 Let's Connect
-- **Portfolio:** [justinmemphis.com](https://justinmemphis.com)
-- **LinkedIn:** [linkedin.com/in/justin-carter](https://www.linkedin.com/in/justin-carter)
-- **GitHub:** [github.com/Justinmemphis](https://github.com/Justinmemphis)
-- **Twitter:** [twitter.com/JustinCarter](https://twitter.com/JustinCarter)
+## 💻 Selected Projects & Highlights
+
+* **MERN Web App + CI/CD** – Built a full-stack app (Express, React, Node).
+* **Stock Quote Series** –
+  * **Backend**: `stock-quote-server` using Node.js + Express
+  * **Frontend**: Interactive D3.js visual charts for 20-year data
+* **Portfolio Website** – Hosted via AWS S3 + CloudFront with secure HTTPS configuration, built with HTML and CSS ([linkedin.com][1], [github.com][2], [justinmemphis.com][3], [github.com][4], [linkedin.com][5])
+
+---
+
+## 🎯 What I’m Up To Next
+
+* Wrapping up AWS Solutions Architect – Associate certification
+* Architecting securely automated microservices on serverless platforms
+* Enhancing proficiency with Terraform, Kubernetes, and container security
+
+---
+
+## 📩 Let’s Collaborate
+
+Interested in secure, scalable cloud infrastructure or DevOps automation?
+Let’s chat:
+
+* 📧 [jcarter82@gmail.com](mailto:jcarter82@gmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/justin-carter-memphis/)
+* 🍃 [Portfolio](https://www.justinmemphis.com)
+
+---
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Justinmemphis.Justinmemphis)
 [![GitHub Followers](https://img.shields.io/github/followers/Justinmemphis?label=Follow&style=social)](https://github.com/Justinmemphis)
