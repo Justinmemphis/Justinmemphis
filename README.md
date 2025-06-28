@@ -54,11 +54,10 @@ I'm a Technical Support Specialist II at ILS
 
 ## 💻 Selected Projects & Highlights
 
-* **MERN Web App + CI/CD** – Built a full-stack app (Express, React, Node).
 * **Stock Quote Series** –
   * **Backend**: `stock-quote-server` using Node.js + Express
   * **Frontend**: Interactive D3.js visual charts for 20-year data
-* **Portfolio Website** – Hosted via AWS S3 + CloudFront with secure HTTPS configuration, built with HTML and CSS ([linkedin.com][1], [github.com][2], [justinmemphis.com][3], [github.com][4], [linkedin.com][5])
+* **Portfolio Website** – Hosted via AWS S3 + CloudFront with secure HTTPS configuration, built with HTML and CSS
 
 ---
 
