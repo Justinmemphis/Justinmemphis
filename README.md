@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Justin Carter!
+### Hi, I'm Justin Carter!
 
 ---
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🔧 What I Do
+## What I Do
 
 I'm a Technical Support Specialist II at ILS
 
@@ -25,11 +25,11 @@ I'm a Technical Support Specialist II at ILS
 
 * **Security & Networking**
 
-  * Earned CompTIA Security+ and Cisco CCNA certifications—solid networking foundation
+  * CompTIA Security+ and Cisco CCNA certifications
 
 ---
 
-## 📚 Certifications & Learning
+## Certifications & Learning
 
 * **AWS Certified Cloud Practitioner (CCP)** ✅
 * **CCNA (Cisco Certified Network Associate)** ✅
@@ -39,7 +39,7 @@ I'm a Technical Support Specialist II at ILS
 
 ---
 
-## 🛠️ Core Tech Stack
+## Core Tech Stack
 
 | Category                 | Tools & Technologies                                                        |
 | ------------------------ | --------------------------------------------------------------------------- |
@@ -52,7 +52,7 @@ I'm a Technical Support Specialist II at ILS
 
 ---
 
-## 💻 Selected Projects & Highlights
+## Selected Projects & Highlights
 
 * **Stock Quote Series** –
   * **Backend**: `stock-quote-server` using Node.js + Express
@@ -61,22 +61,21 @@ I'm a Technical Support Specialist II at ILS
 
 ---
 
-## 🎯 What I’m Up To Next
+## What I’m Up To Next
 
 * Wrapping up AWS Solutions Architect – Associate certification
-* Architecting securely automated microservices on serverless platforms
-* Enhancing proficiency with Terraform, Kubernetes, and container security
+
 
 ---
 
-## 📩 Let’s Collaborate
+## Let’s Collaborate
 
 Interested in secure, scalable cloud infrastructure or DevOps automation?
 Let’s chat:
 
-* 📧 [jcarter82@gmail.com](mailto:jcarter82@gmail.com)
-* 💼 [LinkedIn](https://www.linkedin.com/in/justin-carter-memphis/)
-* 🍃 [Portfolio](https://www.justinmemphis.com)
+* [jcarter82@gmail.com](mailto:jcarter82@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/justin-carter-memphis/)
+* [Portfolio](https://www.justinmemphis.com)
 
 ---
 
