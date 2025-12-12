@@ -33,7 +33,7 @@ I'm a Technical Support Specialist II at ILS
 
 * **AWS Certified Cloud Practitioner (CCP)** 
 * **CCNA (Cisco Certified Network Associate)** 
-* **CompTIA Security+ (SY0‑601)** 
+* **CompTIA Security+ (SY0‑701)** 
 * **Google IT Support Professional Certificate** 
 * **Currently studying:** AWS Solutions Architect – Associate (SAA‑C03)
 
