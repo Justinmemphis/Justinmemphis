@@ -16,7 +16,7 @@ I'm a Business Solutions Developer at CAMP Systems, Inc.
 
   * Achieved AWS Solutions Architect - Associate and AWS Certified Cloud Practitioner
   * Build, secure, and maintain cloud architectures using Infrastructure as Code (IaC)
-  * Configure CI/CD pipelines integrating GitHub Actions and AWS CloudFormation
+  * Configure CI/CD pipelines using Terraform, AWS CloudFormation, and GitHub Actions
 
 * **DevOps & Systems Engineering**
 
@@ -35,7 +35,9 @@ I'm a Business Solutions Developer at CAMP Systems, Inc.
 * **AWS Certified Cloud Practitioner (CCP)** 
 * **CCNA (Cisco Certified Network Associate)** 
 * **CompTIA Security+ (SY0‑701)** 
-* **Google IT Support Professional Certificate** 
+* **Google IT Support Professional Certificate**
+
+* Currently pursuing Terraform Associate
 
 ---
 
@@ -43,7 +45,7 @@ I'm a Business Solutions Developer at CAMP Systems, Inc.
 
 | Category                 | Tools & Technologies                                                        |
 | ------------------------ | --------------------------------------------------------------------------- |
-| **Cloud + DevOps**       | AWS (EC2, S3, IAM, CloudFront, CloudFormation), GitHub Actions              |
+| **Cloud + DevOps**       | AWS (EC2, S3, IAM, CloudFront, CloudFormation), Terraform, GitHub Actions   |
 | **Security**             | Network fundamentals, firewalls, SSH, encryption                            |
 | **Backend / Scripting**  | Node.js, Python, REST APIs, Express, Bash                                   |
 | **Frontend**             | JavaScript, React, HTML5, CSS3                                              |
