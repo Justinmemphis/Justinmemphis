@@ -10,13 +10,13 @@
 
 ## What I Do
 
-I'm a Technical Support Specialist II at ILS
+I'm a Business Solutions Developer at CAMP Systems, Inc.
 
 * **AWS Infrastructure & Automation**
 
-  * Achieved AWS Certified Cloud Practitioner; pursuing AWS Solutions Architect – Associate
+  * Achieved AWS Solutions Architect - Associate and AWS Certified Cloud Practitioner
   * Build, secure, and maintain cloud architectures using Infrastructure as Code (IaC)
-  * Configure CI/CD pipelines integrating GitHub Actions, and S3
+  * Configure CI/CD pipelines integrating GitHub Actions and AWS CloudFormation
 
 * **DevOps & Systems Engineering**
 
@@ -31,11 +31,11 @@ I'm a Technical Support Specialist II at ILS
 
 ## Certifications & Learning
 
+* **AWS Solutions Architect - Associate (SAA-C03)**
 * **AWS Certified Cloud Practitioner (CCP)** 
 * **CCNA (Cisco Certified Network Associate)** 
 * **CompTIA Security+ (SY0‑701)** 
 * **Google IT Support Professional Certificate** 
-* **Currently studying:** AWS Solutions Architect – Associate (SAA‑C03)
 
 ---
 
@@ -43,7 +43,7 @@ I'm a Technical Support Specialist II at ILS
 
 | Category                 | Tools & Technologies                                                        |
 | ------------------------ | --------------------------------------------------------------------------- |
-| **Cloud + DevOps**       | AWS (EC2, S3, IAM, CloudFront), GitHub Actions                              |
+| **Cloud + DevOps**       | AWS (EC2, S3, IAM, CloudFront, CloudFormation), GitHub Actions              |
 | **Security**             | Network fundamentals, firewalls, SSH, encryption                            |
 | **Backend / Scripting**  | Node.js, Python, REST APIs, Express, Bash                                   |
 | **Frontend**             | JavaScript, React, HTML5, CSS3                                              |
@@ -63,7 +63,7 @@ I'm a Technical Support Specialist II at ILS
 
 ## What I’m Up To Next
 
-* Wrapping up AWS Solutions Architect – Associate certification
+* Working on Terraform Associate certification
 
 
 ---
