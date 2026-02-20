@@ -36,8 +36,7 @@ No manual console configuration — fully reproducible from code.
 
 - Short-lived AWS credentials via OIDC federation  
 - IAM trust policies scoped to repo and branch  
-- No long-lived access keys  
-- Infrastructure changes gated through pull requests  
+- No long-lived access keys   
 
 Identity-based access > static secrets.
 
