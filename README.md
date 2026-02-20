@@ -1,69 +1,72 @@
 # Justin Carter
 
-Cloud & Infrastructure Engineer focused on secure AWS architecture, Terraform Infrastructure as Code, and modern DevSecOps practices.
+Cloud Infrastructure & DevSecOps Engineer building secure, automated AWS environments with Terraform.
 
 Memphis, TN  
 https://justinmemphis.com  
-https://linkedin.com/in/justin-carter-memphis
+https://linkedin.com/in/justin-carter-memphis  
 
 ---
 
-## What I’m Building
+## Featured Project
 
 ### AWS Infrastructure Portfolio — Terraform IaC
-Production-grade AWS infrastructure deployed entirely with Terraform and GitHub Actions using OIDC authentication (no long-lived AWS credentials).
+
+Production-grade AWS environment deployed entirely with Infrastructure as Code.
 
 Live: https://justinmemphis.com  
-Repo: https://github.com/Justinmemphis/portfolio-webpage
+Repo: https://github.com/Justinmemphis/portfolio-webpage  
 
-Highlights:
-- CloudFront + S3 static hosting
-- ACM-managed HTTPS
-- Route 53 DNS
-- IAM least-privilege roles
-- GitHub Actions CI/CD
-- OIDC-based AWS authentication
-- Remote Terraform state + locking
+**Architecture Highlights:**
+
+- Custom VPC with public/private subnets  
+- EC2 Auto Scaling behind Load Balancer  
+- Route 53 DNS  
+- IAM least-privilege roles  
+- GitHub Actions CI/CD  
+- OIDC-based authentication (no stored AWS keys)  
+- Remote Terraform state (S3 + DynamoDB locking)  
+- Monitoring and alerting  
+
+No manual console configuration — fully reproducible from code.
+
+---
+
+## Security Approach
+
+- Short-lived AWS credentials via OIDC federation  
+- IAM trust policies scoped to repo and branch  
+- No long-lived access keys  
+- Infrastructure changes gated through pull requests  
+
+Identity-based access > static secrets.
 
 ---
 
 ## Current Focus
 
-- Terraform (Infrastructure as Code at scale)
-- Secure CI/CD pipelines
-- AWS architecture & cost optimization
-- Identity federation (OIDC)
-- DevSecOps engineering practices
+- Terraform at scale  
+- AWS networking & identity architecture  
+- Secure CI/CD pipelines  
+- Infrastructure observability  
+- Cost-aware cloud design  
 
 ---
 
 ## Certifications
 
-- AWS Solutions Architect Associate
-- AWS Cloud Practitioner
-- CompTIA Security+
-- CCNA
+- AWS Solutions Architect – Associate  
+- AWS Cloud Practitioner  
+- CompTIA Security+  
+- CCNA  
 
 ---
 
 ## Career Direction
 
-I’m transitioning deeper into Cloud Infrastructure and DevSecOps roles focused on:
+Transitioning into Cloud Infrastructure / DevSecOps roles focused on:
 
-- AWS infrastructure automation
-- Secure cloud design
-- CI/CD engineering
-- Identity and access architecture
-
----
-
-## Philosophy
-
-Everything in the cloud should be:
-- Reproducible
-- Version controlled
-- Least-privilege
-- Automated
-- Observable
-
-Manual console configuration is technical debt.
+- AWS platform engineering  
+- Infrastructure automation  
+- Secure cloud architecture  
+- CI/CD engineering  
