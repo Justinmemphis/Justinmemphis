@@ -1,50 +1,69 @@
 # Justin Carter
 
-Cloud Infrastructure & Automation  
-AWS • Terraform • CI/CD • Security  
+Cloud & Infrastructure Engineer focused on secure AWS architecture, Terraform Infrastructure as Code, and modern DevSecOps practices.
 
 Memphis, TN  
-Portfolio: https://www.justinmemphis.com  
-LinkedIn: https://www.linkedin.com/in/justin-carter-memphis  
+https://justinmemphis.com  
+https://linkedin.com/in/justin-carter-memphis
 
 ---
 
-## Focus
+## What I’m Building
 
-I build secure, automated, and repeatable cloud infrastructure using Infrastructure as Code and CI/CD pipelines.
+### AWS Infrastructure Portfolio — Terraform IaC
+Production-grade AWS infrastructure deployed entirely with Terraform and GitHub Actions using OIDC authentication (no long-lived AWS credentials).
 
-Primary areas of interest:
+Live: https://justinmemphis.com  
+Repo: https://github.com/Justinmemphis/portfolio-webpage
 
-- AWS architecture and system hardening  
-- Terraform-based infrastructure provisioning  
-- GitHub Actions with OIDC to AWS  
-- Linux server configuration and security baselines  
-- Monitoring and operational reliability  
+Highlights:
+- CloudFront + S3 static hosting
+- ACM-managed HTTPS
+- Route 53 DNS
+- IAM least-privilege roles
+- GitHub Actions CI/CD
+- OIDC-based AWS authentication
+- Remote Terraform state + locking
+
+---
+
+## Current Focus
+
+- Terraform (Infrastructure as Code at scale)
+- Secure CI/CD pipelines
+- AWS architecture & cost optimization
+- Identity federation (OIDC)
+- DevSecOps engineering practices
 
 ---
 
 ## Certifications
 
-- AWS Certified Solutions Architect – Associate  
-- CompTIA Security+  
-- CCNA  
-- AWS Certified Cloud Practitioner  
-
-Currently pursuing: Terraform Associate
+- AWS Solutions Architect Associate
+- AWS Cloud Practitioner
+- CompTIA Security+
+- CCNA
 
 ---
 
-## Featured Project
+## Career Direction
 
-### Hardened AWS EC2 Deployment with Terraform & CI/CD
+I’m transitioning deeper into Cloud Infrastructure and DevSecOps roles focused on:
 
-- Provisioned AWS EC2 infrastructure using Terraform  
-- Automated full server bootstrap via cloud-init  
-- Hardened Linux baseline (key-only SSH, root disabled, fail2ban, UFW)  
-- Configured Nginx with automated TLS (Certbot)  
-- Enabled unattended security patching  
-- Integrated CloudWatch Agent for monitoring  
-- Implemented GitHub Actions CI/CD with AWS OIDC authentication  
+- AWS infrastructure automation
+- Secure cloud design
+- CI/CD engineering
+- Identity and access architecture
 
-Live deployment:  
-https://www.justinmemphis.com
+---
+
+## Philosophy
+
+Everything in the cloud should be:
+- Reproducible
+- Version controlled
+- Least-privilege
+- Automated
+- Observable
+
+Manual console configuration is technical debt.
