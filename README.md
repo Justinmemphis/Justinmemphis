@@ -1,71 +1,58 @@
 # Justin Carter
 
-Cloud Infrastructure & DevSecOps Engineer building secure, automated AWS environments with Terraform.
+Business Solutions Developer focused on systems integration, automation, reporting, APIs, and cloud-enabled process improvement.
 
-Memphis, TN  
-https://justinmemphis.com  
-https://linkedin.com/in/justin-carter-memphis  
+I use GitHub to document hands-on technical projects involving AWS, Terraform, CI/CD, Linux, monitoring, and security-minded automation. My goal with these projects is to keep improving practical engineering skills while building systems that are reproducible, maintainable, and easier to operate.
+
+Memphis, TN
+https://justinmemphis.com
+https://linkedin.com/in/justin-carter-memphis
 
 ---
 
 ## Featured Project
 
-### AWS Infrastructure Portfolio — Terraform IaC
+### Production-Style AWS Infrastructure — Terraform, OIDC CI/CD & Linux Hardening
 
-Production-grade AWS environment deployed entirely with Infrastructure as Code.
+A production-style AWS environment provisioned with Infrastructure as Code and designed around automation, repeatability, and secure operational practices.
 
-Live: https://justinmemphis.com  
-Repo: https://github.com/Justinmemphis/portfolio-webpage  
+**Highlights:**
 
-**Architecture Highlights:**
+* AWS infrastructure managed with Terraform
+* Custom VPC networking and IAM configuration
+* EC2 instance managed through Auto Scaling for recovery
+* Cloud-init bootstrap for repeatable server setup
+* Linux hardening with SSH key-only access, firewall rules, fail2ban, and unattended security updates
+* Nginx with automated TLS via Let’s Encrypt
+* GitHub Actions CI/CD using OIDC federation instead of long-lived AWS credentials
+* CloudWatch monitoring and operational visibility
 
-- Custom VPC with public/private subnets  
-- EC2 Auto Scaling behind Load Balancer  
-- Route 53 DNS  
-- IAM least-privilege roles  
-- GitHub Actions CI/CD  
-- OIDC-based authentication (no stored AWS keys)  
-- Remote Terraform state (S3 + DynamoDB locking)  
-- Monitoring and alerting  
-
-No manual console configuration — fully reproducible from code.
+**Repo:** https://github.com/Justinmemphis/portfolio-webpage
+**Live site:** https://justinmemphis.com
 
 ---
 
-## Security Approach
+## Current Technical Focus
 
-- Short-lived AWS credentials via OIDC federation  
-- IAM trust policies scoped to repo and branch  
-- No long-lived access keys   
-
-Identity-based access > static secrets.
-
----
-
-## Current Focus
-
-- Terraform at scale  
-- AWS networking & identity architecture  
-- Secure CI/CD pipelines  
-- Infrastructure observability  
-- Cost-aware cloud design  
+* Systems integration and business process automation
+* HubSpot, Power BI, reporting workflows, and APIs
+* AWS infrastructure and serverless architecture
+* Terraform and infrastructure as code
+* CI/CD with GitHub Actions
+* Linux administration and hardening
+* Monitoring, reliability, and secure configuration
 
 ---
 
 ## Certifications
 
-- AWS Solutions Architect – Associate  
-- AWS Cloud Practitioner  
-- CompTIA Security+  
-- CCNA  
+* AWS Certified Solutions Architect – Associate
+* AWS Certified Cloud Practitioner
+* CompTIA Security+
+* CCNA
 
 ---
 
-## Career Direction
+## How I Use This GitHub
 
-Transitioning into Cloud Infrastructure / DevSecOps roles focused on:
-
-- AWS platform engineering  
-- Infrastructure automation  
-- Secure cloud architecture  
-- CI/CD engineering  
+This GitHub profile is a place for practical technical learning and project documentation. The projects here are built to explore real implementation details: infrastructure design, deployment automation, security checks, observability, cost awareness, and operational tradeoffs.
